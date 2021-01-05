@@ -1,0 +1,112 @@
+section{
+    margin-bottom: 100px;
+}
+.pinky{
+    
+    background-color: #F0FFF0
+}
+.btn-btn-primary{
+    width: 40%;
+    background-color:rgb(24, 161, 109);
+    border: none;
+    border-radius: 15px;
+    color: white;
+    padding: 5px 15px;
+    margin: 15px;
+}
+.btnmi-btn-primary{
+    background-color: rgb(24, 161, 109);
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 5px 15px;
+    margin: 20px;
+}
+.org{
+    background-color: rgb(158, 218, 185);
+}
+.logo{
+    width: 25%;
+    background-color: none;
+   
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px 5px lightgray;
+    padding: 20px 20px;
+}
+.love:hover{
+    background-color:white;
+    box-shadow: 5px 5px 5px lightgray;
+}
+.love{
+    border-radius: 5px;
+    background-color: #F0FFF0
+
+}
+.hate{
+    width: 100%;
+    padding: 90px;
+    background-color: lightgray;
+    border-radius: 5px;
+}
+.cat{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.dog{
+    text-align: center;
+}
+.horin{
+    padding: 50px;
+    margin-left: 10px;
+}
+.last-left{
+    margin-left: 100px;
+}
+.rainbow{
+    background-color:rgb(58, 43, 58);
+    color: white;
+    padding: 60px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+.lol{
+    text-align: center;
+    color: lightgray;
+}
+.enemy{
+    width: 100%;
+    margin-inline-start: 10px;
+}
+.course-icon{
+    width: 15%;
+    padding: 0px 5px;
+}
+.course-icon-right{
+    width: 35%;
+    padding: 0px 5px;
+}
+.mini-button{
+background-color: rgb(24, 161, 109);
+color: white;
+border: none;
+border-radius: 5px;
+padding: 5px;
+}
+.beauty{
+    color: orangered;
+}
+.lili{
+    color: rgb(33, 181, 115);
+}
+.bold{
+    font-weight: bold;
+}
+.bold2{
+    font-weight: bold;
+}
+.img-sizing{
+    height: 70px;
+}
